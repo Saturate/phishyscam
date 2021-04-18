@@ -1,0 +1,7 @@
+! Title: phishyscam by Saturate
+! Source: https://raw.githubusercontent.com/Saturate/phishyscam/main/blocklist.txt
+! Home: hhttps://github.com/Saturate/phishyscam/
+! Contribute: https://github.com/Saturate/phishyscam/issues
+! License: MIT (https://mit-license.org/)
+
+||navi-gg.ru.com^
